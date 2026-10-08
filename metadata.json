@@ -1,0 +1,6 @@
+{
+  "name": "TERRKEET - Task-Based Earning Platform",
+  "description": "Production-grade task-based earning platform with role-based dashboards for Workers and Financial Department, dual balances, user-specific task pricing, direct review verification, and daily task controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
